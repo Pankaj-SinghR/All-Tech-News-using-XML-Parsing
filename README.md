@@ -21,13 +21,14 @@ In python we can use two module for xml parsing :
 ### Copy the repository
 
 ```
-git clone https://github.com/Pankaj-SinghR/IOT-Programs-Assignment.git
+git clone https://github.com/Pankaj-SinghR/All-Tech-News-using-XML-Parsing
+
 ```
 
 ### Change directory
 
 ```
-cd xml-parsing
+cd All-Tech-News-using-XML-Parsing
 ```
 
 ### Run the python file
